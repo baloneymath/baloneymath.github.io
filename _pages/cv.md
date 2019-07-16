@@ -9,39 +9,73 @@ redirect_from:
 
 {% include base_path %}
 
+[PDF](/files/HAO_CV.pdf){: .btn}
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. in Electrical and Computer Engineering, The University of Texas at Austin, 2024 (expected)
+* B.S. in Electrical Engineering, National Taiwan University, 2019
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2019 - PRESENT: Graduate Research Assistant
+  * Dept. ECE, The University of Texas at Austin
+  * Physical design
+  * Supervisor: Professor David Z. Pan
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2017 - Spring 2019: Research Assistant
+  * Dept. EE, National Taiwan University
+  * Logic synthesis and emerging technology for VLSI CAD
+  * Supervisor: Professor Jie-Hong R. Jiang
+
+* Spring 2017 - Spring 2019: Research Assistant
+  * Dept. EE, National Taiwan University
+  * Physical design
+  * Supervisor: Professor Yao-Wen Chang
+
+* Summer 2017: R&D Intern
+  * Synopsys, Inc., Taipei, Taiwan
+  * Routing Pattern Optimization Improvement
+  * Manager: Kai-Shun Hu
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming languages
+  * C/C++ 
+  * Python 
+  * Java
+* EDA tools
+  * Cadence Innovus
+* Languages
+  * Mandarin
+  * English
+  * Taiwanese
+
 
 Publications
 ======
+<!---
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+-->
+**Conference Papers**
+
+* C3. **Hao Chen**, Shao-Chun Hung, and Jie-Hong R. Jiang, *Disjoint-Support Decomposition and Extraction for Interconnect-Driven Threshold Logic Synthesis*, ACM/IEEE Design Automation Conference (DAC), Las Vegas, NV,Jun. 2-6, 2019.
+
+* C2. Chen-Hao Hsu, Shao-Chun Hung, **Hao Chen**, Fan-Keng Sun, and Yao-Wen Chang, *A DAG-Based Algorithm for Obstacle-Aware Topology-Matching On-Track Bus Routing*, ACM/IEEE Design Automation Conference (DAC), Las Vegas, NV, Jun. 2-6, 2019 
+
+* C1. Fan-Keng Sun, **Hao Chen**, Ching-Yu Chen, Chen-Hao Hsu, and Yao-Wen Chang, *A Multithreaded Initial Detailed Routing Algorithm Considering Global Routing Guides*, IEEE/ACM International Conference on Computer-Aided Design (ICCAD), San Diego, CA, Nov. 5-8, 2018.
+
+Honors & Awards
+======
+* Cockrell School of Engineering Fellowship, The University of Texas at Austin, 2019.
+* Outstanding Performance Scholarship, National Taiwan University, 2018.
+* 3rd Place, IEEE/ACM ICCAD CAD Contest - Problem A, 2018.
+* Top 10, IEEE/ACM ICCAD CAD Contest - Problem B, 2018.
+* 2nd Place, ACM ISPD Initial Detailed Routing Contest, 2018.
+
+<!---  
 Talks
 ======
   <ul>{% for post in site.talks %}
@@ -57,3 +91,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+-->
