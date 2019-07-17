@@ -27,6 +27,6 @@ News
 
 * 06/2019: Our paper, *A DAG-Based Algorithm for Obstacle-Aware Topology-Matching On-Track Bus Routing*, is accepted by DAC 2019.
 
-* 12/2018: Hao received the **OutStanding Performance Scholarship** from National Taiwan University.
+* 12/2018: Hao received the **Outstanding Performance Scholarship** from National Taiwan University.
 
 * 11/2018: Our paper, *A Multithreaded Initial Detailed Routing Algorithm Considering Global Routing Guides*, is accepted by ICCAD 2018.
