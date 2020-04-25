@@ -30,3 +30,5 @@ News
 * 12/2018: Hao received the **Outstanding Performance Scholarship** from National Taiwan University.
 
 * 11/2018: Our paper, *A Multithreaded Initial Detailed Routing Algorithm Considering Global Routing Guides*, is accepted by ICCAD 2018.
+
+<script type="text/javascript" id="clstr_globe" src="//cdn.clustrmaps.com/globe.js?d=xpJhqPYOScSISWzYw0YNHgfVyG1NY0yKGj1P-SWi7fM"></script>
