@@ -30,6 +30,18 @@ Journal Articles
 Conference Papers
 ======
 
+* 2020
+
+  ### C5. Toward Silicon-Proven Detailed Routing for Analog~and~Mixed-Signal Circuits
+     <!--- # * [Preprint](){: .btn} \| [doi](){: .btn} -->
+     * **Hao Chen**, Keren Zhu, Mingjie Liu, Xiyuan Tang, Nan Sun, and David Z. Pan
+     * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), San Diego, CA, Nov. 2-5, 2020. (accepted)
+  
+  ### C4. Effective Analog/Mixed-Signal Circuit Placement Considering System Signal Flow
+     <!--- # * [Preprint](){: .btn} \| [doi](){: .btn} -->
+     * Keren Zhu, **Hao Chen**, Mingjie Liu, Xiyuan Tang, Nan Sun, and David Z. Pan
+     * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), San Diego, CA, Nov. 2-5, 2020. (accepted)
+     
 * 2019
 
   ### C3. Disjoint-Support Decomposition and Extraction for Interconnect-Driven Threshold Logic Synthesis
