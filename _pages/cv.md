@@ -21,22 +21,22 @@ Work experience
 * Fall 2019 - PRESENT: Graduate Research Assistant
   * Dept. ECE, The University of Texas at Austin
   * Physical design
-  * Supervisor: Professor David Z. Pan
+  * Supervisor: Prof. David Z. Pan
 
 * Fall 2017 - Spring 2019: Research Assistant
   * Dept. EE, National Taiwan University
   * Logic synthesis and emerging technology for VLSI CAD
-  * Supervisor: Professor Jie-Hong R. Jiang
+  * Supervisor: Prof. Jie-Hong R. Jiang
 
 * Spring 2017 - Spring 2019: Research Assistant
   * Dept. EE, National Taiwan University
   * Physical design
-  * Supervisor: Professor Yao-Wen Chang
+  * Supervisor: Prof. Yao-Wen Chang
 
 * Summer 2017: R&D Intern
   * Synopsys, Inc., Taipei, Taiwan
   * Routing Pattern Optimization Improvement
-  * Manager: Kai-Shun Hu
+  * Mentor: Kai-Shun Hu
   
 Skills
 ======
