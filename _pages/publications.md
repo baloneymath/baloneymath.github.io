@@ -18,6 +18,7 @@ author_profile: true
 -->
 
 <br>
+
 Journal Articles
 ======
 * 2020
