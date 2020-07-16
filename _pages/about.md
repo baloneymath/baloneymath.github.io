@@ -13,7 +13,7 @@ Previously, I completed my B.S. degree in Electrical Engineering at [National Ta
 As an undergrad researcher, I worked with Prof. [Yao-Wen Chang](http://cc.ee.ntu.edu.tw/~ywchang/) in EDA Lab, and Prof. [Jie-Hong R. Jiang](http://cc.ee.ntu.edu.tw/~jhjiang/) in ALCOM Lab.
 My research interests include physical design, CAD for analog/mixed signal designs, logic synthesis, and emerging technology.
 
-I have received the 2nd-place award in the CAD contest at ICCAD 2018, and the 2nd-place award in the Initial Detailed Routing contest of ISPD 2018.
+I have received the 3rd-place award in the CAD contest at ICCAD 2018, and the 3rd-place award in the Initial Detailed Routing contest of ISPD 2018.
 I have interned at Synopsys.
 
 News
