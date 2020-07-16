@@ -18,6 +18,13 @@ author_profile: true
 -->
 
 <br>
+Journal Articles
+======
+* 2020
+  ### J1. A DAG-Based Algorithm for Obstacle-Aware Topology-Matching On-Track Bus Routing
+     * [doi](https://ieeexplore.ieee.org/abstract/document/9119108){: .btn}
+     * Chen-Hao Hsu, Shao-Chun Hung, **Hao Chen**, Fan-Keng Sun, and Yao-Wen Chang
+     * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2020.
 
 Conference Papers
 ======
@@ -30,7 +37,7 @@ Conference Papers
      * ACM/IEEE Design Automation Conference (DAC), Las Vegas, NV, Jun. 2-6, 2019.
   
   ### C2. A DAG-Based Algorithm for Obstacle-Aware Topology-Matching On-Track Bus Routing
-     * [Preprint](/files/dac19_bus_Hsu.pdf){: .btn} \| [doi](httpS://doi.org/10.1145/3316781.3317740){: .btn}
+     * [Preprint](/files/dac19_bus_Hsu.pdf){: .btn} \| [doi](https://doi.org/10.1145/3316781.3317740){: .btn}
      * Chen-Hao Hsu, Shao-Chun Hung, **Hao Chen**, Fan-Keng Sun, and Yao-Wen Chang
      * ACM/IEEE Design Automation Conference (DAC), Las Vegas, NV, Jun. 2-6, 2019.
 
