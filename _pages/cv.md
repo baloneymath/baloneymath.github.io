@@ -49,11 +49,11 @@ Skills
 
 Honors & Awards
 ======
-* Cockrell School of Engineering Fellowship, The University of Texas at Austin, 2019.
-* Outstanding Performance Scholarship, National Taiwan University, 2018.
-* 3rd Place, IEEE/ACM ICCAD CAD Contest - Problem A, 2018.
-* Top 10, IEEE/ACM ICCAD CAD Contest - Problem B, 2018.
-* 3rd Place, ACM ISPD Initial Detailed Routing Contest, 2018.
+* 2019, 2020: Cockrell School of Engineering Fellowship, The University of Texas at Austin.
+* 2018: Outstanding Performance Scholarship, National Taiwan University.
+* 2018: 3rd Place, IEEE/ACM ICCAD CAD Contest - Problem A.
+* 2018: Top 10, IEEE/ACM ICCAD CAD Contest - Problem B.
+* 2018: 3rd Place, ACM ISPD Initial Detailed Routing Contest.
 
 Professional Services
 ======
