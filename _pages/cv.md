@@ -47,25 +47,6 @@ Skills
 * Languages
   * English, Mandarin, Taiwanese
 
-
-Publications
-======
-<!---
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
--->
-**Journal Articles**
-* J1. Chen-Hao Hsu, Shao-Chun Hung, **Hao Chen**, Fan-Keng Sun, and Yao-Wen Chang, *A DAG-Based Algorithm for Obstacle-Aware Topology-Matching On-Track Bus Routing*, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2020. 
-
-**Conference Papers**
-
-* C3. **Hao Chen**, Shao-Chun Hung, and Jie-Hong R. Jiang, *Disjoint-Support Decomposition and Extraction for Interconnect-Driven Threshold Logic Synthesis*, ACM/IEEE Design Automation Conference (DAC), Las Vegas, NV,Jun. 2-6, 2019.
-
-* C2. Chen-Hao Hsu, Shao-Chun Hung, **Hao Chen**, Fan-Keng Sun, and Yao-Wen Chang, *A DAG-Based Algorithm for Obstacle-Aware Topology-Matching On-Track Bus Routing*, ACM/IEEE Design Automation Conference (DAC), Las Vegas, NV, Jun. 2-6, 2019 
-
-* C1. Fan-Keng Sun, **Hao Chen**, Ching-Yu Chen, Chen-Hao Hsu, and Yao-Wen Chang, *A Multithreaded Initial Detailed Routing Algorithm Considering Global Routing Guides*, IEEE/ACM International Conference on Computer-Aided Design (ICCAD), San Diego, CA, Nov. 5-8, 2018.
-
 Honors & Awards
 ======
 * Cockrell School of Engineering Fellowship, The University of Texas at Austin, 2019.
@@ -73,6 +54,11 @@ Honors & Awards
 * 3rd Place, IEEE/ACM ICCAD CAD Contest - Problem A, 2018.
 * Top 10, IEEE/ACM ICCAD CAD Contest - Problem B, 2018.
 * 3rd Place, ACM ISPD Initial Detailed Routing Contest, 2018.
+
+Professional Services
+======
+* Reviewer
+  * IEEE Trans. Computer-Aided Design of Integrated Circuits and Systems (TCAD)
 
 <!---  
 Talks
@@ -87,7 +73,5 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
 -->
