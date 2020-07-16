@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[PDF](/files/HAO_CV.pdf){: .btn}
+[PDF](/files/hao_cv.pdf){: .btn}
 
 Education
 ======
@@ -41,15 +41,11 @@ Work experience
 Skills
 ======
 * Programming languages
-  * C/C++ 
-  * Python 
-  * Java
+  * C/C++, Python, Java, Verilog, Linux System
 * EDA tools
-  * Cadence Innovus
+  * Cadence Virtuoso, Cadence Innovus, Cadence ADE, Synopsys Hspice, Synopsys PrimeTime
 * Languages
-  * Mandarin
-  * English
-  * Taiwanese
+  * English, Mandarin, Taiwanese
 
 
 Publications
@@ -59,6 +55,9 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 -->
+**Journal Articles**
+* J1. Chen-Hao Hsu, Shao-Chun Hung, **Hao Chen**, Fan-Keng Sun, and Yao-Wen Chang, *A DAG-Based Algorithm for Obstacle-Aware Topology-Matching On-Track Bus Routing*, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2020. 
+
 **Conference Papers**
 
 * C3. **Hao Chen**, Shao-Chun Hung, and Jie-Hong R. Jiang, *Disjoint-Support Decomposition and Extraction for Interconnect-Driven Threshold Logic Synthesis*, ACM/IEEE Design Automation Conference (DAC), Las Vegas, NV,Jun. 2-6, 2019.
@@ -73,7 +72,7 @@ Honors & Awards
 * Outstanding Performance Scholarship, National Taiwan University, 2018.
 * 3rd Place, IEEE/ACM ICCAD CAD Contest - Problem A, 2018.
 * Top 10, IEEE/ACM ICCAD CAD Contest - Problem B, 2018.
-* 2nd Place, ACM ISPD Initial Detailed Routing Contest, 2018.
+* 3rd Place, ACM ISPD Initial Detailed Routing Contest, 2018.
 
 <!---  
 Talks
