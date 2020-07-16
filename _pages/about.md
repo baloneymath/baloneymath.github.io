@@ -19,6 +19,10 @@ I have interned at Synopsys.
 News
 ======
 
+* 07/2020: Our paper, *Toward Silicon-Proven Detailed Routing for Analog and Mixed-Signal Circuits*, is accepted by ICCAD 2020.
+
+* 07/2020: Our paper, *Effective Analog-Mixed-Signal Circuit Placement Considering System Signal Flow*, is accepted by ICCAD 2020.
+
 * 08/2019: Hao received the **Graduate Student Fellowship** from the Cockrell School of Engineering, The Univeristy of Texas at Austin.
 
 * 08/2019: Hao joined the UTDA Lab, The University of Texas at Austin, as a Ph.D. student.
@@ -26,9 +30,5 @@ News
 * 06/2019: Our paper, *Disjoint-Support Decomposition and Extraction for Interconnect-Driven Threshold Logic Synthesis*, is accepted by DAC 2019.
 
 * 06/2019: Our paper, *A DAG-Based Algorithm for Obstacle-Aware Topology-Matching On-Track Bus Routing*, is accepted by DAC 2019.
-
-* 12/2018: Hao received the **Outstanding Performance Scholarship** from National Taiwan University.
-
-* 11/2018: Our paper, *A Multithreaded Initial Detailed Routing Algorithm Considering Global Routing Guides*, is accepted by ICCAD 2018.
 
 <script type="text/javascript" id="clstr_globe" src="//cdn.clustrmaps.com/globe.js?d=xpJhqPYOScSISWzYw0YNHgfVyG1NY0yKGj1P-SWi7fM"></script>
