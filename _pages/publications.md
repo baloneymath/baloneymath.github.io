@@ -22,8 +22,7 @@ author_profile: true
 Journal Articles
 ======
 * 2020
-  ### J1. A DAG-Based Algorithm for Obstacle-Aware Topology-Matching On-Track Bus Routing
-     * [doi](https://ieeexplore.ieee.org/abstract/document/9119108){: .btn}
+  ### J1. [A DAG-Based Algorithm for Obstacle-Aware Topology-Matching On-Track Bus Routing](https://ieeexplore.ieee.org/abstract/document/9119108)
      * Chen-Hao Hsu, Shao-Chun Hung, **Hao Chen**, Fan-Keng Sun, and Yao-Wen Chang
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2020.
 
@@ -44,19 +43,19 @@ Conference Papers
      
 * 2019
 
-  ### C3. Disjoint-Support Decomposition and Extraction for Interconnect-Driven Threshold Logic Synthesis
-     * [Preprint](/files/dac19_thre.pdf){: .btn} \| [doi](https://doi.org/10.1145/3316781.3317801){: .btn}
+  ### C3. [Disjoint-Support Decomposition and Extraction for Interconnect-Driven Threshold Logic Synthesis](https://doi.org/10.1145/3316781.3317801)
+     * [Preprint](/files/dac19_thre.pdf){: .btn}
      * **Hao Chen**, Shao-Chun Hung, and Jie-Hong R. Jiang
      * ACM/IEEE Design Automation Conference (DAC), Las Vegas, NV, Jun. 2-6, 2019.
   
-  ### C2. A DAG-Based Algorithm for Obstacle-Aware Topology-Matching On-Track Bus Routing
-     * [Preprint](/files/dac19_bus.pdf){: .btn} \| [doi](https://doi.org/10.1145/3316781.3317740){: .btn}
+  ### C2. [A DAG-Based Algorithm for Obstacle-Aware Topology-Matching On-Track Bus Routing](https://doi.org/10.1145/3316781.3317740)
+     * [Preprint](/files/dac19_bus.pdf){: .btn}
      * Chen-Hao Hsu, Shao-Chun Hung, **Hao Chen**, Fan-Keng Sun, and Yao-Wen Chang
      * ACM/IEEE Design Automation Conference (DAC), Las Vegas, NV, Jun. 2-6, 2019.
 
 * 2018
   
-  ### C1. A Multithreaded Initial Detailed Routing Algorithm Considering Global Routing Guides
-     * [Preprint](/files/iccad18_dr.pdf){: .btn} \| [doi](https://doi.org/10.1145/3240765.3240777){: .btn}
+  ### C1. [A Multithreaded Initial Detailed Routing Algorithm Considering Global Routing Guides](https://doi.org/10.1145/3240765.3240777)
+     * [Preprint](/files/iccad18_dr.pdf){: .btn}
      * Fan-Keng Sun, **Hao Chen**, Ching-Yu Chen, Chen-Hao Hsu, and Yao-Wen Chang
      * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), San Diego, CA, Nov. 5-8, 2018.
