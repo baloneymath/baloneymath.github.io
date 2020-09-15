@@ -22,6 +22,11 @@ author_profile: true
 Journal Articles
 ======
 * 2020
+  ### J2. [MAGICAL: An Open-Source Fully Automated Analog IC Layout System from Netlist to GDSII](https://doi.org/10.1109/MDAT.2020.3024153)
+     * Invited
+     * **Hao Chen***, Mingjie Liu*, Biying Xu*, Keren Zhu*, Xiyuan Tang, Shaolan Li, Nan Sun, and David Z. Pan (* equal contribution)
+     * IEEE Design and Test (D&T), 2020.
+     
   ### J1. [A DAG-Based Algorithm for Obstacle-Aware Topology-Matching On-Track Bus Routing](https://ieeexplore.ieee.org/abstract/document/9119108)
      * Chen-Hao Hsu, Shao-Chun Hung, **Hao Chen**, Fan-Keng Sun, and Yao-Wen Chang
      * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2020.
@@ -31,12 +36,12 @@ Conference Papers
 
 * 2020
 
-  ### C5. Toward Silicon-Proven Detailed Routing for Analog~and~Mixed-Signal Circuits
+  ### C5. [Toward Silicon-Proven Detailed Routing for Analog and Mixed-Signal Circuits](https://doi.org/10.1145/3400302.3415660)
      <!--- # * [Preprint](){: .btn} \| [doi](){: .btn} -->
      * **Hao Chen**, Keren Zhu, Mingjie Liu, Xiyuan Tang, Nan Sun, and David Z. Pan
      * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), San Diego, CA, Nov. 2-5, 2020. (accepted)
   
-  ### C4. Effective Analog/Mixed-Signal Circuit Placement Considering System Signal Flow
+  ### C4. [Effective Analog/Mixed-Signal Circuit Placement Considering System Signal Flow](https://doi.org/10.1145/3400302.3415625)
      <!--- # * [Preprint](){: .btn} \| [doi](){: .btn} -->
      * Keren Zhu, **Hao Chen**, Mingjie Liu, Xiyuan Tang, Nan Sun, and David Z. Pan
      * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), San Diego, CA, Nov. 2-5, 2020. (accepted)
