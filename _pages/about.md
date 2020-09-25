@@ -31,4 +31,12 @@ News
 
 * 06/2019: Our paper, *A DAG-Based Algorithm for Obstacle-Aware Topology-Matching On-Track Bus Routing*, is accepted by DAC 2019.
 
-<script type="text/javascript" id="clstr_globe" src="//cdn.clustrmaps.com/globe.js?d=xpJhqPYOScSISWzYw0YNHgfVyG1NY0yKGj1P-SWi7fM"></script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-179065637-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-179065637-1');
+</script>
