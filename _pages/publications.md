@@ -70,6 +70,6 @@ Conference Papers
 * 2018
   
   ### C1. [A Multithreaded Initial Detailed Routing Algorithm Considering Global Routing Guides](https://doi.org/10.1145/3240765.3240777)
-     * [Preprint](/files/ICCAD18_DR.pdf){: .btn}
+     * [Preprint](/files/ICCAD18_dr.pdf){: .btn}
      * Fan-Keng Sun, **Hao Chen**, Ching-Yu Chen, Chen-Hao Hsu, and Yao-Wen Chang
      * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), San Diego, CA, Nov. 5-8, 2018.
