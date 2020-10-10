@@ -23,9 +23,14 @@ You can also find my articles on <a href="{{author.googlescholar}}">my Google Sc
 Journal Articles
 ======
 * 2020
+  ### J3. Challenges and Opportunities Toward Fully Automated Analog Layout Design
+     * Invited
+     * **Hao Chen***, Mingjie Liu*, Xiyuan Tang*, Keren Zhu*, Nan Sun, and David Z. Pan (* equal contribution)
+     * Journal of Semiconductors (JoS), 2020.
+     
   ### J2. [MAGICAL: An Open-Source Fully Automated Analog IC Layout System from Netlist to GDSII](https://doi.org/10.1109/MDAT.2020.3024153)
      * Invited
-     * **Hao Chen***, Mingjie Liu*, Biying Xu*, Keren Zhu*, Xiyuan Tang, Shaolan Li, Nan Sun, and David Z. Pan (* equal contribution)
+     * **Hao Chen***, Mingjie Liu*, Biying Xu*, Keren Zhu*, Xiyuan Tang, Shaolan Li, Yibo Lin, Nan Sun, and David Z. Pan (* equal contribution)
      * IEEE Design and Test (D&T), 2020.
      
   ### J1. [A DAG-Based Algorithm for Obstacle-Aware Topology-Matching On-Track Bus Routing](https://ieeexplore.ieee.org/abstract/document/9119108)
@@ -36,16 +41,19 @@ Conference Papers
 ======
 
 * 2020
+  ### C6. Exploring Logic Optimizations with Reinforcement Learning and Graph Convolutional Network
+     * Keren Zhu, Mingjie Liu, **Hao Chen**, Zheng Zhao, and David Z. Pan
+     * ACM/IEEE International Conference on Computer-Aided Design (ICCAD), Virtual Event, Nov. 16-20, 2020. (accepted)
 
   ### C5. [Toward Silicon-Proven Detailed Routing for Analog and Mixed-Signal Circuits](https://doi.org/10.1145/3400302.3415660)
      * [Preprint](/files/ICCAD20_ar.pdf){: .btn}
      * **Hao Chen**, Keren Zhu, Mingjie Liu, Xiyuan Tang, Nan Sun, and David Z. Pan
-     * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), San Diego, CA, Nov. 2-5, 2020. (accepted)
+     * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Virtual Event, Nov. 2-5, 2020.
   
   ### C4. [Effective Analog/Mixed-Signal Circuit Placement Considering System Signal Flow](https://doi.org/10.1145/3400302.3415625)
      * [Preprint](/files/ICCAD20_ap.pdf){: .btn}
      * Keren Zhu, **Hao Chen**, Mingjie Liu, Xiyuan Tang, Nan Sun, and David Z. Pan
-     * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), San Diego, CA, Nov. 2-5, 2020. (accepted)
+     * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Virtual Event, Nov. 2-5, 2020.
      
 * 2019
 
