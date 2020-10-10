@@ -43,7 +43,7 @@ Conference Papers
 * 2020
   ### C6. Exploring Logic Optimizations with Reinforcement Learning and Graph Convolutional Network
      * Keren Zhu, Mingjie Liu, **Hao Chen**, Zheng Zhao, and David Z. Pan
-     * ACM/IEEE International Conference on Computer-Aided Design (ICCAD), Virtual Event, Nov. 16-20, 2020. (accepted)
+     * ACM/IEEE Workshop on Machine Learning for CAD (MLCAD), Virtual Event, Nov. 16-20, 2020. (accepted)
 
   ### C5. [Toward Silicon-Proven Detailed Routing for Analog and Mixed-Signal Circuits](https://doi.org/10.1145/3400302.3415660)
      * [Preprint](/files/ICCAD20_ar.pdf){: .btn}
