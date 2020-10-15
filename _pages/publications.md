@@ -25,12 +25,12 @@ Journal Articles
 * 2020
   ### J3. Challenges and Opportunities Toward Fully Automated Analog Layout Design
      * Invited
-     * **Hao Chen***, Mingjie Liu*, Xiyuan Tang*, Keren Zhu*, Nan Sun, and David Z. Pan (* equal contribution)
+     * **Hao Chen**\*, Mingjie Liu\*, Xiyuan Tang\*, Keren Zhu\*, Nan Sun, and David Z. Pan (\* equal contribution)
      * Journal of Semiconductors (JoS), 2020.
      
   ### J2. [MAGICAL: An Open-Source Fully Automated Analog IC Layout System from Netlist to GDSII](https://doi.org/10.1109/MDAT.2020.3024153)
      * Invited
-     * **Hao Chen***, Mingjie Liu*, Biying Xu*, Keren Zhu*, Xiyuan Tang, Shaolan Li, Yibo Lin, Nan Sun, and David Z. Pan (* equal contribution)
+     * **Hao Chen**\*, Mingjie Liu\*, Biying Xu\*, Keren Zhu\*, Xiyuan Tang, Shaolan Li, Yibo Lin, Nan Sun, and David Z. Pan (\* equal contribution)
      * IEEE Design and Test (D&T), 2020.
      
   ### J1. [A DAG-Based Algorithm for Obstacle-Aware Topology-Matching On-Track Bus Routing](https://ieeexplore.ieee.org/abstract/document/9119108)
