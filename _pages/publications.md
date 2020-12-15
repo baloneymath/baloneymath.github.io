@@ -23,7 +23,7 @@ You can also find my articles on <a href="{{author.googlescholar}}">my Google Sc
 Journal Articles
 ======
 * 2020
-  ### J3. Challenges and Opportunities Toward Fully Automated Analog Layout Design
+  ### J3. [Challenges and Opportunities Toward Fully Automated Analog Layout Design](http://doi.org/10.1088/1674-4926/41/11/111407)
      * Invited
      * **Hao Chen**\*, Mingjie Liu\*, Xiyuan Tang\*, Keren Zhu\*, Nan Sun, and David Z. Pan (\* equal contribution)
      * Journal of Semiconductors (JoS), 2020.
@@ -41,9 +41,10 @@ Conference Papers
 ======
 
 * 2020
-  ### C6. Exploring Logic Optimizations with Reinforcement Learning and Graph Convolutional Network
+  ### C6. [Exploring Logic Optimizations with Reinforcement Learning and Graph Convolutional Network](https://doi.org/10.1145/3380446.3430622)
+     * [Preprint](/files/MLCAD20_ls.pdf){: .btn}
      * Keren Zhu, Mingjie Liu, **Hao Chen**, Zheng Zhao, and David Z. Pan
-     * ACM/IEEE Workshop on Machine Learning for CAD (MLCAD), Virtual Event, Iceland, Nov. 16-20, 2020. (accepted)
+     * ACM/IEEE Workshop on Machine Learning for CAD (MLCAD), Virtual Event, Iceland, Nov. 16-20, 2020.
 
   ### C5. [Toward Silicon-Proven Detailed Routing for Analog and Mixed-Signal Circuits](https://doi.org/10.1145/3400302.3415660)
      * [Preprint](/files/ICCAD20_ar.pdf){: .btn}
