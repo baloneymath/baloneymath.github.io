@@ -18,6 +18,9 @@ I have interned at Synopsys.
 
 News
 ======
+* 01/2021: Our paper, *MAGICAL 1.0: An Open-Source Fully-Automated AMS Layout Synthesis Framework Verified With a 40-nm 1GS/s $\Delta \Sigma$ ADC*, is accepted by CICC 2021. Cheers!
+
+* 11/2020: One co-authored paper, *Exploring Logic Optimizations with Reinforcement Learning and Graph Convolutional Network*, is accepted by MLCAD 2020.
 
 * 07/2020: Our paper, *Toward Silicon-Proven Detailed Routing for Analog and Mixed-Signal Circuits*, is accepted by ICCAD 2020.
 
@@ -26,10 +29,6 @@ News
 * 08/2019: Hao received the **Graduate Student Fellowship** from the Cockrell School of Engineering, The Univeristy of Texas at Austin.
 
 * 08/2019: Hao joined the UTDA Lab, The University of Texas at Austin, as a Ph.D. student.
-
-* 06/2019: Our paper, *Disjoint-Support Decomposition and Extraction for Interconnect-Driven Threshold Logic Synthesis*, is accepted by DAC 2019.
-
-* 06/2019: Our paper, *A DAG-Based Algorithm for Obstacle-Aware Topology-Matching On-Track Bus Routing*, is accepted by DAC 2019.
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-179065637-1"></script>
