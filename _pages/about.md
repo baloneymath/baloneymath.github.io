@@ -18,7 +18,7 @@ I have interned at Synopsys.
 
 News
 ======
-* 01/2021: Our paper, *MAGICAL 1.0: An Open-Source Fully-Automated AMS Layout Synthesis Framework Verified With a 40-nm 1GS/s $\Delta \Sigma$ ADC*, is accepted by CICC 2021. Cheers!
+* 01/2021: Our paper, *MAGICAL 1.0: An Open-Source Fully-Automated AMS Layout Synthesis Framework Verified With a 40-nm 1GS/s ∆Σ ADC*, is accepted by CICC 2021. Cheers!
 
 * 11/2020: One co-authored paper, *Exploring Logic Optimizations with Reinforcement Learning and Graph Convolutional Network*, is accepted by MLCAD 2020.
 
