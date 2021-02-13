@@ -18,6 +18,8 @@ I have interned at Synopsys.
 
 News
 ======
+* 02/2021: Our paper, *Universal Symmetry Constraint Extraction for Analog and Mixed-Signal Circuits with Graph Neural Networks*, is accepted by DAC 2021. Cheers!
+
 * 01/2021: Our paper, *MAGICAL 1.0: An Open-Source Fully-Automated AMS Layout Synthesis Framework Verified With a 40-nm 1GS/s ∆Σ ADC*, is accepted by CICC 2021. Cheers!
 
 * 11/2020: One co-authored paper, *Exploring Logic Optimizations with Reinforcement Learning and Graph Convolutional Network*, is accepted by MLCAD 2020.
@@ -27,8 +29,6 @@ News
 * 07/2020: Our paper, *Effective Analog-Mixed-Signal Circuit Placement Considering System Signal Flow*, is accepted by ICCAD 2020.
 
 * 08/2019: Hao received the **Graduate Student Fellowship** from the Cockrell School of Engineering, The Univeristy of Texas at Austin.
-
-* 08/2019: Hao joined the UTDA Lab, The University of Texas at Austin, as a Ph.D. student.
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-179065637-1"></script>
