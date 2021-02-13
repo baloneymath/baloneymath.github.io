@@ -40,7 +40,18 @@ Journal Articles
 Conference Papers
 ======
 
-* 2020
+* 2021
+  ### C8. Universal Symmetry Constraint Extraction for Analog and Mixed-Signal Circuits with Graph Neural Networks
+     * accepted
+     * **Hao Chen**, Keren Zhu, Mingjie Liu, Xiyuan Tang, Nan Sun, and David Z. Pan
+     * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul. 11-15, 2021.
+     
+  ### C7. MAGICAL 1.0: An Open-Source Fully-Automated AMS Layout Synthesis Framework Verified With a 40-nm 1GS/s ∆Σ ADC
+     * accepted
+     * **Hao Chen**\*, Mingjie Liu\*, Xiyuan Tang\*, Keren Zhu\*, Abhishek Mukherjee, Nan Sun, and David Z. Pan (\* equal contribution)
+     * IEEE Custom Integrated Circuits Conference (CICC), Virtual Event, USA, Apr. 25-28, 2021.
+     
+* 2020     
   ### C6. [Exploring Logic Optimizations with Reinforcement Learning and Graph Convolutional Network](https://doi.org/10.1145/3380446.3430622)
      * [Preprint](/files/MLCAD20_ls.pdf){: .btn}
      * Keren Zhu, Mingjie Liu, **Hao Chen**, Zheng Zhao, and David Z. Pan
