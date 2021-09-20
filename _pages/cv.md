@@ -13,24 +13,29 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Electrical and Computer Engineering, The University of Texas at Austin, 2024 (expected)
+* Ph.D. in Electrical and Computer Engineering, The University of Texas at Austin, 2023 (expected)
 * B.S. in Electrical Engineering, National Taiwan University, 2019
 
 Work experience
 ======
 * Fall 2019 - PRESENT: Graduate Research Assistant
   * Dept. ECE, The University of Texas at Austin
-  * Physical design
+  * Analog/Mixed-Signal Circuit Layout Automation, Machine Learning for EDA
   * Supervisor: Prof. David Z. Pan
+  
+* Summer 2021 - PRESENT: Research Intern
+  * NVIDIA Corporation, Design Automation Research
+  * Advanced FinFET Analog/Mixed-Signal Circuit Layout Automation
+  * Manager: Dr. Mark H. Ren
 
 * Fall 2017 - Spring 2019: Research Assistant
   * Dept. EE, National Taiwan University
-  * Logic synthesis and emerging technology for VLSI CAD
+  * Logic Synthesis and Emerging Technology for VLSI CAD
   * Supervisor: Prof. Jie-Hong R. Jiang
 
 * Spring 2017 - Spring 2019: Research Assistant
   * Dept. EE, National Taiwan University
-  * Physical design
+  * Physical Design
   * Supervisor: Prof. Yao-Wen Chang
 
 * Summer 2017: R&D Intern
@@ -43,7 +48,7 @@ Skills
 * Programming languages
   * C/C++, Python, Java, Verilog, Linux System
 * EDA tools
-  * Cadence Virtuoso, Cadence Innovus, Cadence ADE, Synopsys Hspice, Synopsys PrimeTime
+  * Cadence Virtuoso/Innovus/ADE, Synopsys ICC2
 * Languages
   * English, Mandarin, Taiwanese
 
@@ -58,7 +63,7 @@ Honors & Awards
 Professional Services
 ======
 * Reviewer
-  * IEEE Trans. Computer-Aided Design of Integrated Circuits and Systems (TCAD)
+  * IEEE Trans. Computer-Aided Design of Integrated Circuits and Systems (TCAD'20, TCAD'21)
 
 <!---  
 Talks
