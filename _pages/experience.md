@@ -10,6 +10,10 @@ author_profile: true
   * Graduate Research Assistant
   * Aug. 2019 - PRESENT
 
+* **Design Automation Research, NVIDIA Corportation**
+  * Research Intern
+  * May. 2021 - PRESENT
+
 * **Applied Logic and Computation Lab, NTU**
   * Research Assistant
   * Sep. 2017 - Jan. 2019
