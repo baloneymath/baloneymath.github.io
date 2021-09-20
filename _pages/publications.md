@@ -41,13 +41,22 @@ Conference Papers
 ======
 
 * 2021
-  ### C8. Universal Symmetry Constraint Extraction for Analog and Mixed-Signal Circuits with Graph Neural Networks
+  ### C10. Generative-Adversarial-Network-Guided Well-Aware Placement for Analog Circuits
      * accepted
+     * Keren Zhu, **Hao Chen**, Mingjie Liu, Xiyuan Tang, Wei Shi, Nan Sun, and David Z. Pan
+     * IEEE/ACM Asia and South Pacific Design Automation Conference (ASP-DAC), Virtual Event, Taiwan, Jan. 17-20, 2022.
+
+  ### C9. OpenSAR: An Open Source Automated End-to-end SAR ADC Compiler
+     * accepted
+     * Mingjie Liu, Xiyuan Tang, Keren Zhu, **Hao Chen**, Nan Sun, and David Z. Pan
+     * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Virtual Event, USA, Nov. 01-04, 2021.
+     
+  ### C8. Universal Symmetry Constraint Extraction for Analog and Mixed-Signal Circuits with Graph Neural Networks
+     * [Preprint](/files/DAC21_ac.pdf){: .btn}
      * **Hao Chen**, Keren Zhu, Mingjie Liu, Xiyuan Tang, Nan Sun, and David Z. Pan
      * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul. 11-15, 2021.
      
-  ### C7. MAGICAL 1.0: An Open-Source Fully-Automated AMS Layout Synthesis Framework Verified With a 40-nm 1GS/s ∆Σ ADC
-     * accepted
+  ### C7. [MAGICAL 1.0: An Open-Source Fully-Automated AMS Layout Synthesis Framework Verified With a 40-nm 1GS/s ∆Σ ADC](https://ieeexplore.ieee.org/document/9431521)
      * **Hao Chen**\*, Mingjie Liu\*, Xiyuan Tang\*, Keren Zhu\*, Abhishek Mukherjee, Nan Sun, and David Z. Pan (\* equal contribution)
      * IEEE Custom Integrated Circuits Conference (CICC), Virtual Event, USA, Apr. 25-28, 2021.
      
