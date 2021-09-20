@@ -18,6 +18,10 @@ I have interned at Synopsys.
 
 News
 ======
+* 09/2021: One co-authored paper, *Generative-Adversarial-Network-Guided Well-Aware Placement for Analog Circuits*, is accepted by ASP-DAC 2022. Cheers!
+
+* 07/2021: One co-authored paper, *OpenSAR: An Open Source Automated End-to-end SAR ADC Compiler*, is accepted by ICCAD 2022. Cheers!
+
 * 02/2021: Our paper, *Universal Symmetry Constraint Extraction for Analog and Mixed-Signal Circuits with Graph Neural Networks*, is accepted by DAC 2021. Cheers!
 
 * 01/2021: Our paper, *MAGICAL 1.0: An Open-Source Fully-Automated AMS Layout Synthesis Framework Verified With a 40-nm 1GS/s ∆Σ ADC*, is accepted by CICC 2021. Cheers!
@@ -27,8 +31,6 @@ News
 * 07/2020: Our paper, *Toward Silicon-Proven Detailed Routing for Analog and Mixed-Signal Circuits*, is accepted by ICCAD 2020.
 
 * 07/2020: Our paper, *Effective Analog-Mixed-Signal Circuit Placement Considering System Signal Flow*, is accepted by ICCAD 2020.
-
-* 08/2019: Hao received the **Graduate Student Fellowship** from the Cockrell School of Engineering, The Univeristy of Texas at Austin.
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-179065637-1"></script>
