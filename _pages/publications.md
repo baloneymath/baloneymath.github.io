@@ -39,15 +39,22 @@ Journal Articles
 
 Conference Papers
 ======
+* 2022
+  ### C12. Routability-Aware Placement for Advanced FinFET Mixed-Signal Circuits using Satisfiability Modulo Theories
+     * **Hao Chen**, Walker J. Turner, David Z. Pan, and Haoxing Ren
+     * IEEE/ACM Design, Automation and Test in Europe (DATE), Antwerp, Belgium, Mar. 14-23, 2022.
 
-* 2021
+  ### C11. Automating Analog Constraint Extraction: From Heuristics to Learning
+     * Invited
+     * Keren Zhu, **Hao Chen**, Mingjie Liu, and David Z. Pan
+     * IEEE/ACM Asia and South Pacific Design Automation Conference (ASP-DAC), Virtual Event, Taiwan, Jan. 17-20, 2022.
+     
   ### C10. Generative-Adversarial-Network-Guided Well-Aware Placement for Analog Circuits
-     * accepted
      * Keren Zhu, **Hao Chen**, Mingjie Liu, Xiyuan Tang, Wei Shi, Nan Sun, and David Z. Pan
      * IEEE/ACM Asia and South Pacific Design Automation Conference (ASP-DAC), Virtual Event, Taiwan, Jan. 17-20, 2022.
 
+* 2021
   ### C9. OpenSAR: An Open Source Automated End-to-end SAR ADC Compiler
-     * accepted
      * Mingjie Liu, Xiyuan Tang, Keren Zhu, **Hao Chen**, Nan Sun, and David Z. Pan
      * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Virtual Event, USA, Nov. 01-04, 2021.
      
