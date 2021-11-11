@@ -18,6 +18,8 @@ I have interned at Synopsys.
 
 News
 ======
+* 11/2021: Our paper, *Routability-Aware Placement for Advanced FinFET Mixed-Signal Circuits using Satisfiability Modulo Theories*, is accepted by DATE 2022. Cheers!
+
 * 09/2021: One co-authored paper, *Generative-Adversarial-Network-Guided Well-Aware Placement for Analog Circuits*, is accepted by ASP-DAC 2022. Cheers!
 
 * 07/2021: One co-authored paper, *OpenSAR: An Open Source Automated End-to-end SAR ADC Compiler*, is accepted by ICCAD 2022. Cheers!
@@ -26,11 +28,6 @@ News
 
 * 01/2021: Our paper, *MAGICAL 1.0: An Open-Source Fully-Automated AMS Layout Synthesis Framework Verified With a 40-nm 1GS/s ∆Σ ADC*, is accepted by CICC 2021. Cheers!
 
-* 11/2020: One co-authored paper, *Exploring Logic Optimizations with Reinforcement Learning and Graph Convolutional Network*, is accepted by MLCAD 2020.
-
-* 07/2020: Our paper, *Toward Silicon-Proven Detailed Routing for Analog and Mixed-Signal Circuits*, is accepted by ICCAD 2020.
-
-* 07/2020: Our paper, *Effective Analog-Mixed-Signal Circuit Placement Considering System Signal Flow*, is accepted by ICCAD 2020.
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-179065637-1"></script>
