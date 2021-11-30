@@ -14,7 +14,7 @@ As an undergrad researcher, I worked with Prof. [Yao-Wen Chang](http://cc.ee.ntu
 My research interests include physical design, CAD for analog/mixed signal designs, logic synthesis, and emerging technology.
 
 I have received the 3rd-place award in the CAD contest at ICCAD 2018, and the 3rd-place award in the Initial Detailed Routing contest of ISPD 2018.
-I have interned at Synopsys.
+I have interned at Synopsys and NVIDIA Research.
 
 News
 ======
