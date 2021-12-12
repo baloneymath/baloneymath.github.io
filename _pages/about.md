@@ -14,10 +14,12 @@ As an undergrad researcher, I worked with Prof. [Yao-Wen Chang](http://cc.ee.ntu
 My research interests include physical design, CAD for analog/mixed signal designs, logic synthesis, and emerging technology.
 
 I have received the 3rd-place award in the CAD contest at ICCAD 2018, and the 3rd-place award in the Initial Detailed Routing contest of ISPD 2018.
-I have interned at Synopsys and NVIDIA Research.
+I have interned at Synopsys and NVIDIA Research. I am grateful that my work is supported by the [NVIDIA Graduate Fellowship](https://www.nvidia.com/en-us/research/graduate-fellowships/).
 
 News
 ======
+* 12/2021: Hao recieved the [NVIDIA Graduate Fellowship](https://www.nvidia.com/en-us/research/graduate-fellowships/). Cheers!!
+
 * 11/2021: Our paper, *Routability-Aware Placement for Advanced FinFET Mixed-Signal Circuits using Satisfiability Modulo Theories*, is accepted by DATE 2022. Cheers!
 
 * 09/2021: One co-authored paper, *Generative-Adversarial-Network-Guided Well-Aware Placement for Analog Circuits*, is accepted by ASP-DAC 2022. Cheers!
