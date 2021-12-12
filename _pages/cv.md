@@ -54,7 +54,9 @@ Skills
 
 Honors & Awards
 ======
+* 2021: NVIDIA Graduate Fellowship, NVIDIA Corporation.
 * 2019, 2020: Cockrell School of Engineering Fellowship, The University of Texas at Austin.
+* 2019: Outstanding Performance Scholarship, National Taiwan University.
 * 2018: Outstanding Performance Scholarship, National Taiwan University.
 * 2018: 3rd Place, IEEE/ACM ICCAD CAD Contest - Problem A.
 * 2018: Top 10, IEEE/ACM ICCAD CAD Contest - Problem B.
