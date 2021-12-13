@@ -58,7 +58,7 @@ Conference Papers
      * Mingjie Liu, Xiyuan Tang, Keren Zhu, **Hao Chen**, Nan Sun, and David Z. Pan
      * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Virtual Event, USA, Nov. 01-04, 2021.
      
-  ### C8. Universal Symmetry Constraint Extraction for Analog and Mixed-Signal Circuits with Graph Neural Networks
+  ### C8. [Universal Symmetry Constraint Extraction for Analog and Mixed-Signal Circuits with Graph Neural Networks](https://doi.org/10.1109/DAC18074.2021.9586211)
      * [Preprint](/files/DAC21_ac.pdf){: .btn}
      * **Hao Chen**, Keren Zhu, Mingjie Liu, Xiyuan Tang, Nan Sun, and David Z. Pan
      * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul. 11-15, 2021.
