@@ -18,7 +18,7 @@ I have interned at Synopsys and NVIDIA Research. I am grateful that my work is s
 
 News
 ======
-* 12/2021: Hao recieved the [NVIDIA Graduate Fellowship](https://www.nvidia.com/en-us/research/graduate-fellowships/). Cheers!!
+* 12/2021: Hao recieved the [NVIDIA Graduate Fellowship](https://blogs.nvidia.com/blog/2021/12/14/graduate-fellowship-awards-2/). Cheers!!
 
 * 11/2021: Our paper, *Routability-Aware Placement for Advanced FinFET Mixed-Signal Circuits using Satisfiability Modulo Theories*, is accepted by DATE 2022. Cheers!
 
