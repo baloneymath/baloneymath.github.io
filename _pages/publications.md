@@ -22,6 +22,12 @@ You can also find my articles on <a href="{{author.googlescholar}}">my Google Sc
 
 Journal Articles
 ======
+* 2022
+  ### J4. [Tutorial and Perspectives on MAGICAL: A Silicon-Proven Open-Source Analog IC Layout System]()
+     * Invited
+     * Keren Zhu, **Hao Chen**, Mingjie Liu, and David Z. Pan (\* equal contribution)
+     * IEEE Transactions on Circuits and Systems II (TCAS-II), 2022.
+     
 * 2020
   ### J3. [Challenges and Opportunities Toward Fully Automated Analog Layout Design](http://doi.org/10.1088/1674-4926/41/11/111407)
      * Invited
@@ -40,6 +46,10 @@ Journal Articles
 Conference Papers
 ======
 * 2022
+  ### C13. [AutoCRAFT: Layout Automation for Custom Circuits in Advanced FinFET Technologies](https://doi.org/10.1145/3505170.3511044)
+     * **Hao Chen**, Walker J. Turner, Sanquan Song, Keren Zhu, George F. Kokai, Brian Zimmer, C. Thomas Gray, Brucek Khailany, David Z. Pan, and Haoxing Ren
+     * ACM International Symposium on Physical Design (ISPD), Virtual Event, Canada, Mar. 27-30, 2022.
+ 
   ### C12. Routability-Aware Placement for Advanced FinFET Mixed-Signal Circuits using Satisfiability Modulo Theories
      * **Hao Chen**, Walker J. Turner, David Z. Pan, and Haoxing Ren
      * IEEE/ACM Design, Automation and Test in Europe (DATE), Antwerp, Belgium, Mar. 14-23, 2022.
@@ -64,6 +74,7 @@ Conference Papers
      * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul. 11-15, 2021.
      
   ### C7. [MAGICAL 1.0: An Open-Source Fully-Automated AMS Layout Synthesis Framework Verified With a 40-nm 1GS/s ∆Σ ADC](https://ieeexplore.ieee.org/document/9431521)
+     * [Preprint](/files/CICC21_magical.pdf){: .btn}
      * **Hao Chen**\*, Mingjie Liu\*, Xiyuan Tang\*, Keren Zhu\*, Abhishek Mukherjee, Nan Sun, and David Z. Pan (\* equal contribution)
      * IEEE Custom Integrated Circuits Conference (CICC), Virtual Event, USA, Apr. 25-28, 2021.
      
