@@ -54,17 +54,17 @@ Conference Papers
      * **Hao Chen**, Walker J. Turner, David Z. Pan, and Haoxing Ren
      * IEEE/ACM Design, Automation and Test in Europe (DATE), Antwerp, Belgium, Mar. 14-23, 2022.
 
-  ### C11. Automating Analog Constraint Extraction: From Heuristics to Learning
+  ### C11. [Automating Analog Constraint Extraction: From Heuristics to Learning](https://ieeexplore.ieee.org/abstract/document/9712488)
      * Invited
      * Keren Zhu, **Hao Chen**, Mingjie Liu, and David Z. Pan
      * IEEE/ACM Asia and South Pacific Design Automation Conference (ASP-DAC), Virtual Event, Taiwan, Jan. 17-20, 2022.
      
-  ### C10. Generative-Adversarial-Network-Guided Well-Aware Placement for Analog Circuits
+  ### C10. [Generative-Adversarial-Network-Guided Well-Aware Placement for Analog Circuits](https://ieeexplore.ieee.org/abstract/document/9712592)
      * Keren Zhu, **Hao Chen**, Mingjie Liu, Xiyuan Tang, Wei Shi, Nan Sun, and David Z. Pan
      * IEEE/ACM Asia and South Pacific Design Automation Conference (ASP-DAC), Virtual Event, Taiwan, Jan. 17-20, 2022.
 
 * 2021
-  ### C9. OpenSAR: An Open Source Automated End-to-end SAR ADC Compiler
+  ### C9. [OpenSAR: An Open Source Automated End-to-end SAR ADC Compiler](https://ieeexplore.ieee.org/abstract/document/9643494)
      * Mingjie Liu, Xiyuan Tang, Keren Zhu, **Hao Chen**, Nan Sun, and David Z. Pan
      * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Virtual Event, USA, Nov. 01-04, 2021.
      
