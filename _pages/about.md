@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Ph.D. student in Electrical and Computer Engineering at [The University of Texas at Austin](https://www.utexas.edu/), working with Prof. [David Z. Pan](http://users.ece.utexas.edu/~dpan/) in the [UTDA Lab](https://www.cerc.utexas.edu/utda/).
+I am currently a Ph.D. candidate in Electrical and Computer Engineering at [The University of Texas at Austin](https://www.utexas.edu/), working with Prof. [David Z. Pan](http://users.ece.utexas.edu/~dpan/) in the [UTDA Lab](https://www.cerc.utexas.edu/utda/).
 Previously, I completed my B.S. degree in Electrical Engineering at [National Taiwan University](https://www.ntu.edu.tw/english/) in 2019.
 As an undergrad researcher, I worked with Prof. [Yao-Wen Chang](http://cc.ee.ntu.edu.tw/~ywchang/) in EDA Lab, and Prof. [Jie-Hong R. Jiang](http://cc.ee.ntu.edu.tw/~jhjiang/) in ALCOM Lab.
 My research interests include physical design, CAD for analog/mixed signal designs, logic synthesis, and formal methods.
