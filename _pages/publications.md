@@ -22,11 +22,6 @@ You can also find my articles on <a href="{{author.googlescholar}}">my Google Sc
 
 Journal Articles
 ======
-* 2022
-  ### J4. [Tutorial and Perspectives on MAGICAL: A Silicon-Proven Open-Source Analog IC Layout System]()
-     * Invited
-     * Keren Zhu, **Hao Chen**, Mingjie Liu, and David Z. Pan (\* equal contribution)
-     * IEEE Transactions on Circuits and Systems II (TCAS-II), 2022.
      
 * 2020
   ### J3. [Challenges and Opportunities Toward Fully Automated Analog Layout Design](http://doi.org/10.1088/1674-4926/41/11/111407)
