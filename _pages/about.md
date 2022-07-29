@@ -18,17 +18,19 @@ I have interned at Synopsys and NVIDIA Research. I am grateful that my work is s
 
 News
 ======
-* 12/2021: Hao recieved the [NVIDIA Graduate Fellowship](https://blogs.nvidia.com/blog/2021/12/14/graduate-fellowship-awards-2/). Cheers!!
+* 07/2022: One co-authored paper, *TAG: Learning Circuit Spatial Embedding From Layouts*, is accepted by ICCAD 2022.
+
+* 03/2022: I presented a paper, *AutoCRAFT: Layout Automation for Custom Circuits in Advanced FinFET Technologies*, at ISPD 2022.
+
+* 12/2021: I recieved the [NVIDIA Graduate Fellowship](https://blogs.nvidia.com/blog/2021/12/14/graduate-fellowship-awards-2/). Cheers!!
 
 * 11/2021: Our paper, *Routability-Aware Placement for Advanced FinFET Mixed-Signal Circuits using Satisfiability Modulo Theories*, is accepted by DATE 2022. Cheers!
 
 * 09/2021: One co-authored paper, *Generative-Adversarial-Network-Guided Well-Aware Placement for Analog Circuits*, is accepted by ASP-DAC 2022. Cheers!
 
-* 07/2021: One co-authored paper, *OpenSAR: An Open Source Automated End-to-end SAR ADC Compiler*, is accepted by ICCAD 2022. Cheers!
+* 07/2021: One co-authored paper, *OpenSAR: An Open Source Automated End-to-end SAR ADC Compiler*, is accepted by ICCAD 2021. Cheers!
 
 * 02/2021: Our paper, *Universal Symmetry Constraint Extraction for Analog and Mixed-Signal Circuits with Graph Neural Networks*, is accepted by DAC 2021. Cheers!
-
-* 01/2021: Our paper, *MAGICAL 1.0: An Open-Source Fully-Automated AMS Layout Synthesis Framework Verified With a 40-nm 1GS/s ∆Σ ADC*, is accepted by CICC 2021. Cheers!
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
