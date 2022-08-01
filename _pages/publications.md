@@ -46,6 +46,10 @@ Journal Articles
 Conference Papers
 ======
 * 2022
+  ### C14. [TAG: Learning Circuit Spatial Embedding From Layouts]()
+     * Keren Zhu, **Hao Chen**, Walker J. Turner, George F. Kokai, Po-Hsuan Wei, David Z. Pan, and Haoxing Ren
+     * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), San Diego, CA, Oct. 30 - Nov. 3, 2022.
+
   ### C13. [AutoCRAFT: Layout Automation for Custom Circuits in Advanced FinFET Technologies](https://doi.org/10.1145/3505170.3511044)
      * **Hao Chen**, Walker J. Turner, Sanquan Song, Keren Zhu, George F. Kokai, Brian Zimmer, C. Thomas Gray, Brucek Khailany, David Z. Pan, and Haoxing Ren
      * ACM International Symposium on Physical Design (ISPD), Virtual Event, Canada, Mar. 27-30, 2022.
