@@ -20,14 +20,21 @@ You can also find my articles on <a href="{{author.googlescholar}}">my Google Sc
 
 <br>
 
+Book Chapters
+======
+* 2022
+  ### B1. [CAD for Analog/Mixed-Signal Integrated Circuits](https://www.amazon.com/Advances-Semiconductor-Technologies-Selected-Conventional/dp/1119869587)
+     * Mohamed B. Alawieh, Ahmet F. Budak, Hao Chen, Mingjie Liu, David Z. Pan, Wei Shi, Xiyuan Tang, Shuhan Zhang and Keren Zhu (equal contribution)
+     * _Advances in Semiconductor Technologies: Selected Topics Beyond Conventional CMOS_, Wiley-IEEE Press., 2022
+
 Journal Articles
 ======
 * 2022
-  ### J4. [Tutorial and Perspectives on MAGICAL: A Silicon-Proven Open-Source Analog IC Layout System]()
+  ### J4. [Tutorial and Perspectives on MAGICAL: A Silicon-Proven Open-Source Analog IC Layout System](https://ieeexplore.ieee.org/document/9769692)
      * Invited
      * Keren Zhu, **Hao Chen**, Mingjie Liu, and David Z. Pan (\* equal contribution)
      * IEEE Transactions on Circuits and Systems II (TCAS-II), 2022.
-     * 
+     
 * 2020
   ### J3. [Challenges and Opportunities Toward Fully Automated Analog Layout Design](http://doi.org/10.1088/1674-4926/41/11/111407)
      * Invited
