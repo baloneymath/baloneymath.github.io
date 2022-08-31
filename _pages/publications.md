@@ -24,7 +24,7 @@ Book Chapters
 ======
 * 2022
   ### B1. [CAD for Analog/Mixed-Signal Integrated Circuits](https://www.amazon.com/Advances-Semiconductor-Technologies-Selected-Conventional/dp/1119869587)
-     * Mohamed B. Alawieh, Ahmet F. Budak, Hao Chen, Mingjie Liu, David Z. Pan, Wei Shi, Xiyuan Tang, Shuhan Zhang and Keren Zhu (equal contribution)
+     * Mohamed B. Alawieh, Ahmet F. Budak, Hao Chen, Mingjie Liu, David Z. Pan, Wei Shi, Xiyuan Tang, Shuhan Zhang, and Keren Zhu (equal contribution)
      * _Advances in Semiconductor Technologies: Selected Topics Beyond Conventional CMOS_, Wiley-IEEE Press., 2022
 
 Journal Articles
