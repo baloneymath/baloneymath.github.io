@@ -21,27 +21,23 @@ Work experience
 * Fall 2019 - PRESENT: Graduate Research Assistant
   * Dept. ECE, The University of Texas at Austin
   * Analog/Mixed-Signal Circuit Layout Automation, Machine Learning for EDA
-  * Supervisor: Prof. David Z. Pan
+  * Supervisor: Dr. David Z. Pan
   
-* Summer 2021 - PRESENT: Research Intern
+* Summer 2021 - Fall 2022: Research Intern
   * NVIDIA Corporation, Design Automation Research
   * Advanced FinFET Analog/Mixed-Signal Circuit Layout Automation
-  * Manager: Dr. Mark H. Ren
 
 * Fall 2017 - Spring 2019: Research Assistant
   * Dept. EE, National Taiwan University
   * Logic Synthesis and Emerging Technology for VLSI CAD
-  * Supervisor: Prof. Jie-Hong R. Jiang
 
 * Spring 2017 - Spring 2019: Research Assistant
   * Dept. EE, National Taiwan University
   * Physical Design
-  * Supervisor: Prof. Yao-Wen Chang
 
 * Summer 2017: R&D Intern
   * Synopsys, Inc., Taipei, Taiwan
   * Routing Pattern Optimization Improvement
-  * Mentor: Kai-Shun Hu
   
 Skills
 ======
