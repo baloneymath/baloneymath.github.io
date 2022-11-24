@@ -18,6 +18,8 @@ I have interned at Synopsys and NVIDIA Research. I am grateful that my work is s
 
 News
 ======
+* 11/2022: One paper, *Reinforcement Learning Guided Detailed Routing for Custom Circuits*, is accepted by ISPD 2022. Cheers!
+
 * 07/2022: One co-authored paper, *TAG: Learning Circuit Spatial Embedding From Layouts*, is accepted by ICCAD 2022.
 
 * 03/2022: I presented a paper, *AutoCRAFT: Layout Automation for Custom Circuits in Advanced FinFET Technologies*, at ISPD 2022.
