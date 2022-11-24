@@ -23,6 +23,9 @@ You can also find my articles on <a href="{{author.googlescholar}}">my Google Sc
 Book Chapters
 ======
 * 2022
+  ### B2. [Machine Learning Applications in Electronic Design Automation](https://www.barnesandnoble.com/w/machine-learning-applications-in-electronic-design-automation-haoxing-ren/1141727406)
+     * Steven M. Burns, **Hao Chen**, Tonmoy Dhar, Ramesh Harjani, Jiang Hu, Nibedita Karmokar, Kishor Kunal, Yaguang Li, Yishuang Lin, Mingjie Liu, Meghna Madhusudan, Parijat Mukherjee, David Z. Pan, Jitesh Poojary, S. Ramprasath, Sachin S. Sapatnekar, Arvind K. Sharma, Wenbin Xu, Soner Yaldiz, and Keren Zhu (equal contribution)
+     * Springer, 2022. 
   ### B1. [CAD for Analog/Mixed-Signal Integrated Circuits](https://www.amazon.com/Advances-Semiconductor-Technologies-Selected-Conventional/dp/1119869587)
      * Mohamed B. Alawieh, Ahmet F. Budak, Hao Chen, Mingjie Liu, David Z. Pan, Wei Shi, Xiyuan Tang, Shuhan Zhang, and Keren Zhu (equal contribution)
      * _Advances in Semiconductor Technologies: Selected Topics Beyond Conventional CMOS_, Wiley-IEEE Press., 2022
@@ -53,6 +56,10 @@ Journal Articles
 Conference Papers
 ======
 * 2022
+  ### C15. [Reinforcement Learning Guided Detailed Routing for Custom Circuits]()
+     * **Hao Chen**, Kai-Chieh Hsu, Walker J. Turner, Po-Hsuan Wei, Keren Zhu, David Z. Pan, and Haoxing Ren
+     * ACM International Symposium on Physical Design (ISPD), Virtual Event, Mar. 26-29, 2023.
+
   ### C14. [TAG: Learning Circuit Spatial Embedding From Layouts]()
      * Keren Zhu, **Hao Chen**, Walker J. Turner, George F. Kokai, Po-Hsuan Wei, David Z. Pan, and Haoxing Ren
      * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), San Diego, CA, Oct. 30 - Nov. 3, 2022.
