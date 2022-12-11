@@ -56,7 +56,7 @@ Journal Articles
 Conference Papers
 ======
 * 2023
-  ### C15. [Reinforcement Learning Guided Detailed Routing for Custom Circuits]()
+  ### C15. [Reinforcement Learning Guided Custom Detailed Routing]()
      * **Hao Chen**, Kai-Chieh Hsu, Walker J. Turner, Po-Hsuan Wei, Keren Zhu, David Z. Pan, and Haoxing Ren
      * ACM International Symposium on Physical Design (ISPD), Virtual Event, Mar. 26-29, 2023.
 
