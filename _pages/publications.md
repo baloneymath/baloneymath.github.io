@@ -26,6 +26,7 @@ Book Chapters
   ### B2. [Machine Learning Applications in Electronic Design Automation](https://www.barnesandnoble.com/w/machine-learning-applications-in-electronic-design-automation-haoxing-ren/1141727406)
      * Steven M. Burns, **Hao Chen**, Tonmoy Dhar, Ramesh Harjani, Jiang Hu, Nibedita Karmokar, Kishor Kunal, Yaguang Li, Yishuang Lin, Mingjie Liu, Meghna Madhusudan, Parijat Mukherjee, David Z. Pan, Jitesh Poojary, S. Ramprasath, Sachin S. Sapatnekar, Arvind K. Sharma, Wenbin Xu, Soner Yaldiz, and Keren Zhu (equal contribution)
      * Springer, 2022. 
+  
   ### B1. [CAD for Analog/Mixed-Signal Integrated Circuits](https://www.amazon.com/Advances-Semiconductor-Technologies-Selected-Conventional/dp/1119869587)
      * Mohamed B. Alawieh, Ahmet F. Budak, Hao Chen, Mingjie Liu, David Z. Pan, Wei Shi, Xiyuan Tang, Shuhan Zhang, and Keren Zhu (equal contribution)
      * _Advances in Semiconductor Technologies: Selected Topics Beyond Conventional CMOS_, Wiley-IEEE Press., 2022
