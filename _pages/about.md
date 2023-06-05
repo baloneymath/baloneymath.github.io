@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Ph.D. candidate in Electrical and Computer Engineering at [The University of Texas at Austin](https://www.utexas.edu/), working with Prof. [David Z. Pan](http://users.ece.utexas.edu/~dpan/) in the [UTDA Lab](https://www.cerc.utexas.edu/utda/).
-Previously, I completed my B.S. degree in Electrical Engineering at [National Taiwan University](https://www.ntu.edu.tw/english/) in 2019.
-As an undergrad researcher, I worked with Prof. [Yao-Wen Chang](http://cc.ee.ntu.edu.tw/~ywchang/) in EDA Lab, and Prof. [Jie-Hong R. Jiang](http://cc.ee.ntu.edu.tw/~jhjiang/) in ALCOM Lab.
-My research interests include physical design, CAD for analog/mixed signal designs, logic synthesis, and formal methods.
+I am currently a software engineer at [X, the moonshot factory](https://x.company).
+Before joining X, I completed my B.S. degree in Electrical Engineering at [National Taiwan University](https://www.ntu.edu.tw/english/) in 2019 and my Ph.D. in Electrical and Computer Engineering at [The University of Texas at Austin](https://www.utexas.edu/), working with Prof. [David Z. Pan](http://users.ece.utexas.edu/~dpan/) in the [UTDA Lab](https://www.cerc.utexas.edu/utda/).
+I also worked with Prof. [Yao-Wen Chang](http://cc.ee.ntu.edu.tw/~ywchang/) in EDA Lab, and Prof. [Jie-Hong R. Jiang](http://cc.ee.ntu.edu.tw/~jhjiang/) in ALCOM Lab.
+My Ph.D. research interests include physical design, CAD for analog/mixed signal designs, logic synthesis, and formal methods.
 
-I have received the 3rd-place award in the CAD contest at ICCAD 2018, and the 3rd-place award in the Initial Detailed Routing contest of ISPD 2018.
-I have interned at Synopsys and NVIDIA Research. I am grateful that my work is supported by the [NVIDIA Graduate Fellowship](https://www.nvidia.com/en-us/research/graduate-fellowships/).
+I received the 3rd-place award in the CAD contest at ICCAD 2018, and the 3rd-place award in the Initial Detailed Routing contest of ISPD 2018.
+I have interned at Synopsys, NVIDIA Research, and X. I am grateful that my work is supported by the [NVIDIA Graduate Fellowship](https://www.nvidia.com/en-us/research/graduate-fellowships/).
 
 News
 ======
