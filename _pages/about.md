@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am currently a software engineer at [X, the moonshot factory](https://x.company).
-Before joining X, I completed my B.S. degree in Electrical Engineering at [National Taiwan University](https://www.ntu.edu.tw/english/) in 2019 and my Ph.D. in Electrical and Computer Engineering at [The University of Texas at Austin](https://www.utexas.edu/), working with Prof. [David Z. Pan](http://users.ece.utexas.edu/~dpan/) in the [UTDA Lab](https://www.cerc.utexas.edu/utda/).
+Before joining X, I completed my B.S. degree in Electrical Engineering at [National Taiwan University](https://www.ntu.edu.tw/english/) in 2019 and my Ph.D. in Electrical and Computer Engineering at [The University of Texas at Austin](https://www.utexas.edu/) in 2023. During my Ph.D., I worked with Prof. [David Z. Pan](http://users.ece.utexas.edu/~dpan/) in the [UTDA Lab](https://www.cerc.utexas.edu/utda/).
 I also worked with Prof. [Yao-Wen Chang](http://cc.ee.ntu.edu.tw/~ywchang/) in EDA Lab, and Prof. [Jie-Hong R. Jiang](http://cc.ee.ntu.edu.tw/~jhjiang/) in ALCOM Lab.
 My Ph.D. research interests include physical design, CAD for analog/mixed signal designs, logic synthesis, and formal methods.
 
