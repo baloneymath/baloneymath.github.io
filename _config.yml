@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Hao Chen"
   avatar           : "hao_6259_square.jpg"
-  bio              : "Ph.D. candidate, The University of Texas at Austin"
-  location         : "Austin, TX"
+  bio              : "Software Engineer @ X, the moonshot factory"
+  location         : "Mountain View, CA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=nyIyAY0AAAAJ&hl=en&authuser=1"
-  email            : "haoc@utexas.edu"
+  email            : "haojc@x.team"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
