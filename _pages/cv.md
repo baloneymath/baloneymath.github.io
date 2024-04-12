@@ -13,32 +13,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Electrical and Computer Engineering, The University of Texas at Austin, 2023 (expected)
+* Ph.D. in Electrical and Computer Engineering, The University of Texas at Austin, 2024
 * B.S. in Electrical Engineering, National Taiwan University, 2019
 
-Work experience
-======
-* Fall 2019 - PRESENT: Graduate Research Assistant
-  * Dept. ECE, The University of Texas at Austin
-  * Analog/Mixed-Signal Circuit Layout Automation, Machine Learning for EDA
-  * Supervisor: Dr. David Z. Pan
-  
-* Summer 2021 - Fall 2022: Research Intern
-  * NVIDIA Corporation, Design Automation Research
-  * Advanced FinFET Analog/Mixed-Signal Circuit Layout Automation
-
-* Fall 2017 - Spring 2019: Research Assistant
-  * Dept. EE, National Taiwan University
-  * Logic Synthesis and Emerging Technology for VLSI CAD
-
-* Spring 2017 - Spring 2019: Research Assistant
-  * Dept. EE, National Taiwan University
-  * Physical Design
-
-* Summer 2017: R&D Intern
-  * Synopsys, Inc., Taipei, Taiwan
-  * Routing Pattern Optimization Improvement
-  
 Skills
 ======
 * Programming languages
@@ -60,6 +37,8 @@ Honors & Awards
 
 Professional Services
 ======
+* TPC Member
+  * ACM/IEEE Design Automation Conference (DAC'24)
 * Reviewer
   * IEEE Trans. Computer-Aided Design of Integrated Circuits and Systems (TCAD'20, TCAD'21)
 
