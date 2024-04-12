@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Software Engineer at [Google Deepmind](https://deepmind.google/).
+I am currently a Software Engineer at [Google Deepmind](https://deepmind.google/), working to solve some of the hardest scientific and engineering challenges of our time.
 Before joining Google Deepmind, I worked as a Software Engineer at [X, the moonshot factory](https://x.compay). I completed my B.S. degree in Electrical Engineering at [National Taiwan University](https://www.ntu.edu.tw/english/) in 2019 and my Ph.D. in Electrical and Computer Engineering at [The University of Texas at Austin](https://www.utexas.edu/) in 2023. During my Ph.D., I worked with Prof. [David Z. Pan](http://users.ece.utexas.edu/~dpan/) in the [UTDA Lab](https://www.cerc.utexas.edu/utda/).
 I also worked with Prof. [Yao-Wen Chang](http://cc.ee.ntu.edu.tw/~ywchang/) in EDA Lab, and Prof. [Jie-Hong R. Jiang](http://cc.ee.ntu.edu.tw/~jhjiang/) in ALCOM Lab.
 My Ph.D. research interests include physical design, CAD for analog/mixed signal designs, logic synthesis, and formal methods.
