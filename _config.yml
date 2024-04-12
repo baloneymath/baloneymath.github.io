@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Hao Chen"
 title_separator          : "-"
 name                     : &name "Hao Chen"
-description              : &description "Software Engineer at X, the moonshot factory"
+description              : &description "Software Engineer at Google Deepmind"
 url                      : https://baloneymath.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "baloneymath/baloneymath.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Hao Chen"
   avatar           : "hao_6259_square.jpg"
-  bio              : "Software Engineer @ X, the moonshot factory"
+  bio              : "Software Engineer @ Google Deepmind"
   location         : "Mountain View, CA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=nyIyAY0AAAAJ&hl=en&authuser=1"
-  email            : "haojc@x.team"
+  email            : "haojc@google.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
